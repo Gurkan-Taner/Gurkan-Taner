@@ -7,18 +7,18 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a **freelance software engineer** who loves building systems that are **fast, reliable, and built to last**.  
 From **low-level performance-focused code** to **modern backend and web development**, I design solutions that scale and stay maintainable.
 
 ---
 
-## ⚙️ Core Tech Stack
+## Core Tech Stack
 
 <p align="center">
 
-### 🧩 Languages I Use to Build Things That Matter
+### Languages I Use to Build Things That Matter
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,7 +29,7 @@ From **low-level performance-focused code** to **modern backend and web developm
 
 ---
 
-## 🏗️ What I Actually Do
+## What I Actually Do
 
 🔹 Design and develop **scalable backend systems**  
 🔹 Build **high-performance applications**  
@@ -39,7 +39,7 @@ From **low-level performance-focused code** to **modern backend and web developm
 
 ---
 
-## 🤝 Let’s Work Together
+## Let’s Work Together
 
 I’m open to:
 <ul>
